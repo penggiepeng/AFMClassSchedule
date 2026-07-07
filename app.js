@@ -128,11 +128,11 @@ function renderClasses(data) {
         <div class="class-type">${escapeHtml(item.classType)}</div>
       </div>
       <div class="details">
-        <div class="detail-row"><span class="icon">?</span>${escapeHtml(item.clubLocation)}</div>
-        <div class="detail-row"><span class="icon">?</span>${escapeHtml(item.instructor)}</div>
-        <div class="detail-row"><span class="icon">?</span>${escapeHtml(item.startTime)}</div>
-        <div class="detail-row"><span class="icon">?</span>${escapeHtml(item.dayOfWeek)}</div>
-        <div class="detail-row"><span class="icon">?</span>${escapeHtml(item.date)}</div>
+        <div class="detail-row"><span class="icon">&#x1F4CD;</span>${escapeHtml(item.clubLocation)}</div>
+        <div class="detail-row"><span class="icon">&#x1F464;</span>${escapeHtml(item.instructor)}</div>
+        <div class="detail-row"><span class="icon">&#x1F550;</span>${escapeHtml(item.startTime)}</div>
+        <div class="detail-row"><span class="icon">&#x1F4C6;</span>${escapeHtml(item.dayOfWeek)}</div>
+        <div class="detail-row"><span class="icon">&#x1F4C5;</span>${escapeHtml(item.date)}</div>
       </div>
     </div>
   `).join('');
