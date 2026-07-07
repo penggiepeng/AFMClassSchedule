@@ -88,6 +88,14 @@ function buildFilters() {
   });
 }
 
+function resetFilters() {
+  filterConfig.forEach(({ key }) => {
+    document.getElementById(`filter-${key}`).value = '';
+  });
+  updateDependentFilters();
+  renderClasses(classesData);
+}
+
 function updateDependentFilters() {
   const classTypeVal = document.getElementById('filter-classType').value;
   const classNameVal = document.getElementById('filter-className').value;

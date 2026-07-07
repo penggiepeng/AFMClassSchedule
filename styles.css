@@ -83,6 +83,22 @@ header p {
   border-color: #bb86fc;
 }
 
+.reset-btn {
+  margin-bottom: 20px;
+  padding: 8px 20px;
+  background-color: transparent;
+  color: #bb86fc;
+  border: 1px solid #bb86fc;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.reset-btn:hover {
+  background-color: #bb86fc22;
+}
+
 .results-info {
   margin-bottom: 16px;
   color: #888;
