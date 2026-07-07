@@ -7,7 +7,6 @@ const filterConfig = [
   { key: 'className', label: 'Class Name' },
   { key: 'instructor', label: 'Instructor' },
   { key: 'day', label: 'Day' },
-  { key: 'date', label: 'Date' },
   { key: 'timeOfDay', label: 'Time of Day' }
 ];
 
@@ -78,12 +77,52 @@ function buildFilters() {
       select.appendChild(opt);
     });
 
-    select.addEventListener('change', applyFilters);
+    select.addEventListener('change', () => {
+      updateDependentFilters();
+      applyFilters();
+    });
 
     group.appendChild(lbl);
     group.appendChild(select);
     filtersEl.appendChild(group);
   });
+}
+
+function updateDependentFilters() {
+  const classTypeVal = document.getElementById('filter-classType').value;
+  const classNameVal = document.getElementById('filter-className').value;
+
+  // Filter className options based on selected classType
+  const classNameSelect = document.getElementById('filter-className');
+  const filteredByType = classTypeVal
+    ? classesData.filter(d => d.classType === classTypeVal)
+    : classesData;
+  const classNames = getDistinctValues(filteredByType, 'className');
+  const currentClassName = classNameSelect.value;
+  classNameSelect.innerHTML = '<option value="">All</option>';
+  classNames.forEach(val => {
+    const opt = document.createElement('option');
+    opt.value = val;
+    opt.textContent = val;
+    classNameSelect.appendChild(opt);
+  });
+  classNameSelect.value = classNames.includes(currentClassName) ? currentClassName : '';
+
+  // Filter instructor options based on selected className (and classType)
+  const instructorSelect = document.getElementById('filter-instructor');
+  const filteredByClass = classNameSelect.value
+    ? filteredByType.filter(d => d.className === classNameSelect.value)
+    : filteredByType;
+  const instructors = getDistinctValues(filteredByClass, 'instructor');
+  const currentInstructor = instructorSelect.value;
+  instructorSelect.innerHTML = '<option value="">All</option>';
+  instructors.forEach(val => {
+    const opt = document.createElement('option');
+    opt.value = val;
+    opt.textContent = val;
+    instructorSelect.appendChild(opt);
+  });
+  instructorSelect.value = instructors.includes(currentInstructor) ? currentInstructor : '';
 }
 
 function applyFilters() {
