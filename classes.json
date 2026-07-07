@@ -1,6 +1,6 @@
 [
   {
-    "location": "Bandar Puteri Puchong",
+    "clubLocation": "Bandar Puteri Puchong",
     "clubName": "Anytime Fitness Bandar Puteri Puchong",
     "className": "LesMILLS BODYPUMP",
     "classType": "Strength",
@@ -10,7 +10,7 @@
     "startTime": "08:00"
   },
   {
-    "location": "Bandar Puteri Puchong",
+    "clubLocation": "Bandar Puteri Puchong",
     "clubName": "Anytime Fitness Bandar Puteri Puchong",
     "className": "Aerial Yoga",
     "classType": "Yoga",
@@ -20,7 +20,7 @@
     "startTime": "09:00"
   },
   {
-    "location": "Bandar Puteri Puchong",
+    "clubLocation": "Bandar Puteri Puchong",
     "clubName": "Anytime Fitness Bandar Puteri Puchong",
     "className": "HYROX",
     "classType": "Conditioning",
@@ -30,7 +30,7 @@
     "startTime": "18:00"
   },
   {
-    "location": "Bandar Puteri Puchong",
+    "clubLocation": "Bandar Puteri Puchong",
     "clubName": "Anytime Fitness Bandar Puteri Puchong",
     "className": "LesMILLS BODYPUMP",
     "classType": "Strength",
@@ -40,7 +40,7 @@
     "startTime": "19:00"
   },
   {
-    "location": "Bandar Puteri Puchong",
+    "clubLocation": "Bandar Puteri Puchong",
     "clubName": "Anytime Fitness Bandar Puteri Puchong",
     "className": "Aerial Yoga",
     "classType": "Yoga",
@@ -50,7 +50,7 @@
     "startTime": "20:00"
   },
   {
-    "location": "Bandar Puteri Puchong",
+    "clubLocation": "Bandar Puteri Puchong",
     "clubName": "Anytime Fitness Bandar Puteri Puchong",
     "className": "Zumba",
     "classType": "Dance Fitness",
@@ -60,7 +60,7 @@
     "startTime": "21:00"
   },
   {
-    "location": "Bandar Puteri Puchong",
+    "clubLocation": "Bandar Puteri Puchong",
     "clubName": "Anytime Fitness Bandar Puteri Puchong",
     "className": "TRX",
     "classType": "Strength",
@@ -70,7 +70,7 @@
     "startTime": "08:00"
   },
   {
-    "location": "Bandar Puteri Puchong",
+    "clubLocation": "Bandar Puteri Puchong",
     "clubName": "Anytime Fitness Bandar Puteri Puchong",
     "className": "LesMILLS BodyCombat",
     "classType": "Combat Fitness",
@@ -80,7 +80,7 @@
     "startTime": "09:00"
   },
   {
-    "location": "Bandar Puteri Puchong",
+    "clubLocation": "Bandar Puteri Puchong",
     "clubName": "Anytime Fitness Bandar Puteri Puchong",
     "className": "HYROX",
     "classType": "Conditioning",
@@ -90,7 +90,7 @@
     "startTime": "13:30"
   },
   {
-    "location": "Bandar Puteri Puchong",
+    "clubLocation": "Bandar Puteri Puchong",
     "clubName": "Anytime Fitness Bandar Puteri Puchong",
     "className": "Pilates",
     "classType": "Core",
@@ -100,7 +100,7 @@
     "startTime": "18:00"
   },
   {
-    "location": "Bandar Puteri Puchong",
+    "clubLocation": "Bandar Puteri Puchong",
     "clubName": "Anytime Fitness Bandar Puteri Puchong",
     "className": "Zumba",
     "classType": "Dance Fitness",
@@ -110,7 +110,7 @@
     "startTime": "19:00"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "Aerial Yoga",
     "classType": "Yoga",
@@ -120,7 +120,7 @@
     "startTime": "08:30"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "Zumba",
     "classType": "Dance Fitness",
@@ -130,7 +130,7 @@
     "startTime": "10:00"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "Blaze Build",
     "classType": "Strength",
@@ -140,7 +140,7 @@
     "startTime": "19:00"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "Zumba Lift",
     "classType": "Strength",
@@ -150,7 +150,7 @@
     "startTime": "20:00"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "BollyX",
     "classType": "Dance Fitness",
@@ -160,7 +160,7 @@
     "startTime": "21:00"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "Blaze Define",
     "classType": "Strength",
@@ -170,7 +170,7 @@
     "startTime": "08:30"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "Yoga",
     "classType": "Yoga",
@@ -180,7 +180,7 @@
     "startTime": "10:30"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "Step Cardio",
     "classType": "Cardio",
@@ -190,7 +190,7 @@
     "startTime": "19:00"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "Zumba",
     "classType": "Dance Fitness",
@@ -200,7 +200,7 @@
     "startTime": "20:00"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "Muay Thai",
     "classType": "Martial Arts",
@@ -210,7 +210,7 @@
     "startTime": "21:00"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "Muay Thai",
     "classType": "Martial Arts",
@@ -220,7 +220,7 @@
     "startTime": "08:30"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "Strong Nation",
     "classType": "HIIT",
@@ -230,7 +230,7 @@
     "startTime": "09:30"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "Yoga",
     "classType": "Yoga",
@@ -240,7 +240,7 @@
     "startTime": "18:30"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "Step Cardio (Advanced)",
     "classType": "Cardio",
@@ -250,7 +250,7 @@
     "startTime": "19:30"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "PopMix",
     "classType": "Dance Fitness",
@@ -260,7 +260,7 @@
     "startTime": "20:30"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "Pilates Flow",
     "classType": "Pilates",
@@ -270,7 +270,7 @@
     "startTime": "08:30"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "HIIT Fitness",
     "classType": "HIIT",
@@ -280,7 +280,7 @@
     "startTime": "09:30"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "Zumba",
     "classType": "Dance Fitness",
@@ -290,7 +290,7 @@
     "startTime": "18:30"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "PopMix",
     "classType": "Dance Fitness",
@@ -300,7 +300,7 @@
     "startTime": "20:00"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "PopMix",
     "classType": "Dance Fitness",
@@ -310,7 +310,7 @@
     "startTime": "08:00"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "Boxing",
     "classType": "Martial Arts",
@@ -320,7 +320,7 @@
     "startTime": "09:00"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "Pump 45",
     "classType": "Strength",
@@ -330,7 +330,7 @@
     "startTime": "10:30"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "Zumba",
     "classType": "Dance Fitness",
@@ -340,7 +340,7 @@
     "startTime": "19:00"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "Piloxing",
     "classType": "Cardio",
@@ -350,7 +350,7 @@
     "startTime": "20:00"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "Aerial Yoga",
     "classType": "Yoga",
@@ -360,7 +360,7 @@
     "startTime": "09:00"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "Line Dancing",
     "classType": "Dance",
@@ -370,7 +370,7 @@
     "startTime": "10:00"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "Zumba",
     "classType": "Dance Fitness",
@@ -380,7 +380,7 @@
     "startTime": "11:30"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "Pilates",
     "classType": "Pilates",
@@ -390,7 +390,7 @@
     "startTime": "08:45"
   },
   {
-    "location": "Elmina",
+    "clubLocation": "Elmina",
     "clubName": "Anytime Fitness Elmina",
     "className": "Zumba",
     "classType": "Dance Fitness",

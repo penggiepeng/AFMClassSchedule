@@ -130,9 +130,9 @@ function renderClasses(data) {
       <div class="details">
         <div class="detail-row"><span class="icon">?</span>${escapeHtml(item.clubLocation)}</div>
         <div class="detail-row"><span class="icon">?</span>${escapeHtml(item.instructor)}</div>
-        <div class="detail-row"><span class="icon">?</span>${formatTime(item.startTime)} (${getTimeOfDay(item.startTime)})</div>
-        <div class="detail-row"><span class="icon">?</span>${escapeHtml(item.day)}</div>
-        <div class="detail-row"><span class="icon">?</span>${formatDateRange(item.date)}</div>
+        <div class="detail-row"><span class="icon">?</span>${escapeHtml(item.startTime)}</div>
+        <div class="detail-row"><span class="icon">?</span>${escapeHtml(item.dayOfWeek)}</div>
+        <div class="detail-row"><span class="icon">?</span>${escapeHtml(item.date)}</div>
       </div>
     </div>
   `).join('');
