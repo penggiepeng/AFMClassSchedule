@@ -6,7 +6,7 @@ const filterConfig = [
   { key: 'classType', label: 'Class Type' },
   { key: 'className', label: 'Class Name' },
   { key: 'instructor', label: 'Instructor' },
-  { key: 'day', label: 'Day' },
+  { key: 'dayOfWeek', label: 'Day' },
   { key: 'timeOfDay', label: 'Time of Day' }
 ];
 
@@ -45,7 +45,7 @@ function getDistinctValues(data, key) {
     const order = ['Morning', 'Afternoon', 'Evening', 'Night'];
     return times.sort((a, b) => order.indexOf(a) - order.indexOf(b));
   }
-  if (key === 'day') {
+  if (key === 'dayOfWeek') {
     const days = [...new Set(data.map(d => d[key]))];
     const order = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
     return days.sort((a, b) => order.indexOf(a) - order.indexOf(b));
