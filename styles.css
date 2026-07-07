@@ -171,7 +171,19 @@ header p {
 
 @media (max-width: 600px) {
   .filters {
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+    padding: 12px;
+  }
+
+  .filter-group label {
+    font-size: 0.7rem;
+    margin-bottom: 3px;
+  }
+
+  .filter-group select {
+    padding: 6px 8px;
+    font-size: 0.8rem;
   }
 
   .class-grid {
