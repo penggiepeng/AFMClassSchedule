@@ -86,6 +86,16 @@ function buildFilters() {
     group.appendChild(select);
     filtersEl.appendChild(group);
   });
+
+  // Add reset button inside the filters box
+  const resetGroup = document.createElement('div');
+  resetGroup.className = 'filter-group reset-group';
+  const resetBtn = document.createElement('button');
+  resetBtn.className = 'reset-btn';
+  resetBtn.textContent = 'Reset Filters';
+  resetBtn.addEventListener('click', resetFilters);
+  resetGroup.appendChild(resetBtn);
+  filtersEl.appendChild(resetGroup);
 }
 
 function resetFilters() {

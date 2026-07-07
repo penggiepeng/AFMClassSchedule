@@ -84,7 +84,6 @@ header p {
 }
 
 .reset-btn {
-  margin-bottom: 20px;
   padding: 8px 20px;
   background-color: transparent;
   color: #bb86fc;
@@ -93,6 +92,11 @@ header p {
   font-size: 0.85rem;
   cursor: pointer;
   transition: background-color 0.2s;
+  width: 100%;
+}
+
+.reset-group {
+  justify-content: flex-end;
 }
 
 .reset-btn:hover {
