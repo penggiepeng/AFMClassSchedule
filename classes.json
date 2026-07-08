@@ -1,7 +1,7 @@
 [
   {
-    "clubLocation": "Bandar Puteri Puchong",
-    "clubName": "AF Bandar Puteri Puchong",
+    "clubLocation": "Puchong",
+    "clubName": "AF Bandar Puteri Puchong IOI Rio",
     "className": "LesMILLS BODYPUMP",
     "classType": "Strength",
     "instructor": "Juveen",
@@ -10,8 +10,8 @@
     "startTime": "08:00"
   },
   {
-    "clubLocation": "Bandar Puteri Puchong",
-    "clubName": "AF Bandar Puteri Puchong",
+    "clubLocation": "Puchong",
+    "clubName": "AF Bandar Puteri Puchong IOI Rio",
     "className": "Aerial Yoga",
     "classType": "Yoga",
     "instructor": "Luna",
@@ -20,8 +20,8 @@
     "startTime": "09:00"
   },
   {
-    "clubLocation": "Bandar Puteri Puchong",
-    "clubName": "AF Bandar Puteri Puchong",
+    "clubLocation": "Puchong",
+    "clubName": "AF Bandar Puteri Puchong IOI Rio",
     "className": "HYROX",
     "classType": "Conditioning",
     "instructor": "Syazwan",
@@ -30,8 +30,8 @@
     "startTime": "18:00"
   },
   {
-    "clubLocation": "Bandar Puteri Puchong",
-    "clubName": "AF Bandar Puteri Puchong",
+    "clubLocation": "Puchong",
+    "clubName": "AF Bandar Puteri Puchong IOI Rio",
     "className": "LesMILLS BODYPUMP",
     "classType": "Strength",
     "instructor": "Hendrix",
@@ -40,8 +40,8 @@
     "startTime": "19:00"
   },
   {
-    "clubLocation": "Bandar Puteri Puchong",
-    "clubName": "AF Bandar Puteri Puchong",
+    "clubLocation": "Puchong",
+    "clubName": "AF Bandar Puteri Puchong IOI Rio",
     "className": "Aerial Yoga",
     "classType": "Yoga",
     "instructor": "Alice Yap",
@@ -50,8 +50,8 @@
     "startTime": "20:00"
   },
   {
-    "clubLocation": "Bandar Puteri Puchong",
-    "clubName": "AF Bandar Puteri Puchong",
+    "clubLocation": "Puchong",
+    "clubName": "AF Bandar Puteri Puchong IOI Rio",
     "className": "Zumba",
     "classType": "Dance Fitness",
     "instructor": "Rime",
@@ -60,8 +60,8 @@
     "startTime": "21:00"
   },
   {
-    "clubLocation": "Bandar Puteri Puchong",
-    "clubName": "AF Bandar Puteri Puchong",
+    "clubLocation": "Puchong",
+    "clubName": "AF Bandar Puteri Puchong IOI Rio",
     "className": "TRX",
     "classType": "Strength",
     "instructor": "Hendrix",
@@ -70,8 +70,8 @@
     "startTime": "08:00"
   },
   {
-    "clubLocation": "Bandar Puteri Puchong",
-    "clubName": "AF Bandar Puteri Puchong",
+    "clubLocation": "Puchong",
+    "clubName": "AF Bandar Puteri Puchong IOI Rio",
     "className": "LesMILLS BodyCombat",
     "classType": "Combat Fitness",
     "instructor": "Isaac",
@@ -80,8 +80,8 @@
     "startTime": "09:00"
   },
   {
-    "clubLocation": "Bandar Puteri Puchong",
-    "clubName": "AF Bandar Puteri Puchong",
+    "clubLocation": "Puchong",
+    "clubName": "AF Bandar Puteri Puchong IOI Rio",
     "className": "HYROX",
     "classType": "Conditioning",
     "instructor": "Fathi",
@@ -90,8 +90,8 @@
     "startTime": "13:30"
   },
   {
-    "clubLocation": "Bandar Puteri Puchong",
-    "clubName": "AF Bandar Puteri Puchong",
+    "clubLocation": "Puchong",
+    "clubName": "AF Bandar Puteri Puchong IOI Rio",
     "className": "Pilates",
     "classType": "Core",
     "instructor": "Christy Wan",
@@ -100,8 +100,8 @@
     "startTime": "18:00"
   },
   {
-    "clubLocation": "Bandar Puteri Puchong",
-    "clubName": "AF Bandar Puteri Puchong",
+    "clubLocation": "Puchong",
+    "clubName": "AF Bandar Puteri Puchong IOI Rio",
     "className": "Zumba",
     "classType": "Dance Fitness",
     "instructor": "Sunny",
@@ -3568,6 +3568,215 @@
     "date": "1 July 2026 - 31 July 2026",
     "dayOfWeek": "Sunday",
     "startTime": "09:00"
+  },
+  {
+    "clubLocation": "Puchong",
+    "clubName": "AF Puchong Utama",
+    "className": "Bollywood Jam",
+    "classType": "Dance",
+    "instructor": "GX Fuzi",
+    "date": "1 July 2026 - 31 July 2026",
+    "dayOfWeek": "Sunday",
+    "startTime": "09:30"
+  },
+  {
+    "clubLocation": "Puchong",
+    "clubName": "AF Puchong Utama",
+    "className": "Yoga",
+    "classType": "Yoga",
+    "instructor": "GX Sylvia",
+    "date": "1 July 2026 - 31 July 2026",
+    "dayOfWeek": "Monday",
+    "startTime": "08:00"
+  },
+  {
+    "clubLocation": "Puchong",
+    "clubName": "AF Puchong Utama",
+    "className": "Zumba",
+    "classType": "Dance",
+    "instructor": "GX Yvonne",
+    "date": "1 July 2026 - 31 July 2026",
+    "dayOfWeek": "Monday",
+    "startTime": "09:00"
+  },
+  {
+    "clubLocation": "Puchong",
+    "clubName": "AF Puchong Utama",
+    "className": "Inside Flow Yoga",
+    "classType": "Yoga",
+    "instructor": "GX Ruby",
+    "date": "1 July 2026 - 31 July 2026",
+    "dayOfWeek": "Tuesday",
+    "startTime": "08:00"
+  },
+  {
+    "clubLocation": "Puchong",
+    "clubName": "AF Puchong Utama",
+    "className": "Core Strength",
+    "classType": "Strength",
+    "instructor": "GX Vivian",
+    "date": "1 July 2026 - 31 July 2026",
+    "dayOfWeek": "Wednesday",
+    "startTime": "08:00"
+  },
+  {
+    "clubLocation": "Puchong",
+    "clubName": "AF Puchong Utama",
+    "className": "Hatha Yoga",
+    "classType": "Yoga",
+    "instructor": "GX Geetha",
+    "date": "1 July 2026 - 31 July 2026",
+    "dayOfWeek": "Thursday",
+    "startTime": "08:00"
+  },
+  {
+    "clubLocation": "Puchong",
+    "clubName": "AF Puchong Utama",
+    "className": "Zumba",
+    "classType": "Dance",
+    "instructor": "GX Yvonne",
+    "date": "1 July 2026 - 31 July 2026",
+    "dayOfWeek": "Friday",
+    "startTime": "09:00"
+  },
+  {
+    "clubLocation": "Puchong",
+    "clubName": "AF Puchong Utama",
+    "className": "Tabata & HIIT",
+    "classType": "HIIT",
+    "instructor": "GX Vivian",
+    "date": "1 July 2026 - 31 July 2026",
+    "dayOfWeek": "Saturday",
+    "startTime": "08:00"
+  },
+  {
+    "clubLocation": "Puchong",
+    "clubName": "AF Bandar Kinrara",
+    "className": "Yoga",
+    "classType": "Yoga",
+    "instructor": "Ping",
+    "date": "6 July 2026 - 12 July 2026",
+    "dayOfWeek": "Monday",
+    "startTime": "08:00"
+  },
+  {
+    "clubLocation": "Puchong",
+    "clubName": "AF Bandar Kinrara",
+    "className": "TRX",
+    "classType": "Strength",
+    "instructor": "Ping",
+    "date": "6 July 2026 - 12 July 2026",
+    "dayOfWeek": "Monday",
+    "startTime": "09:00"
+  },
+  {
+    "clubLocation": "Puchong",
+    "clubName": "AF Bandar Kinrara",
+    "className": "Zumba",
+    "classType": "Dance",
+    "instructor": "Shukry",
+    "date": "6 July 2026 - 12 July 2026",
+    "dayOfWeek": "Tuesday",
+    "startTime": "08:00"
+  },
+  {
+    "clubLocation": "Puchong",
+    "clubName": "AF Bandar Kinrara",
+    "className": "Power Tone",
+    "classType": "Strength",
+    "instructor": "Celine",
+    "date": "6 July 2026 - 12 July 2026",
+    "dayOfWeek": "Wednesday",
+    "startTime": "09:00"
+  },
+  {
+    "clubLocation": "Puchong",
+    "clubName": "AF Bandar Kinrara",
+    "className": "Yoga",
+    "classType": "Yoga",
+    "instructor": "Frankie",
+    "date": "6 July 2026 - 12 July 2026",
+    "dayOfWeek": "Thursday",
+    "startTime": "08:00"
+  },
+  {
+    "clubLocation": "Puchong",
+    "clubName": "AF Bandar Kinrara",
+    "className": "Pilates",
+    "classType": "Pilates",
+    "instructor": "Ken",
+    "date": "6 July 2026 - 12 July 2026",
+    "dayOfWeek": "Friday",
+    "startTime": "09:00"
+  },
+  {
+    "clubLocation": "Puchong",
+    "clubName": "AF Bandar Kinrara",
+    "className": "Yoga Trapeze",
+    "classType": "Yoga",
+    "instructor": "Alice Yap",
+    "date": "6 July 2026 - 12 July 2026",
+    "dayOfWeek": "Saturday",
+    "startTime": "08:00"
+  },
+  {
+    "clubLocation": "Puchong",
+    "clubName": "AF Bandar Kinrara",
+    "className": "Aerial Yoga",
+    "classType": "Yoga",
+    "instructor": "Pei Shan",
+    "date": "6 July 2026 - 12 July 2026",
+    "dayOfWeek": "Sunday",
+    "startTime": "08:00"
+  },
+  {
+    "clubLocation": "Puchong",
+    "clubName": "AF Bandar Kinrara",
+    "className": "Spin",
+    "classType": "Cardio",
+    "instructor": "Christy",
+    "date": "6 July 2026 - 12 July 2026",
+    "dayOfWeek": "Monday",
+    "startTime": "18:00"
+  },
+  {
+    "clubLocation": "Puchong",
+    "clubName": "AF Bandar Kinrara",
+    "className": "Kick Boxing",
+    "classType": "Martial Arts",
+    "instructor": "Kellee",
+    "date": "6 July 2026 - 12 July 2026",
+    "dayOfWeek": "Monday",
+    "startTime": "20:00"
+  },
+  {
+    "clubLocation": "Puchong",
+    "clubName": "AF Bandar Kinrara",
+    "className": "Piloxing",
+    "classType": "Cardio",
+    "instructor": "Chelsea",
+    "date": "6 July 2026 - 12 July 2026",
+    "dayOfWeek": "Tuesday",
+    "startTime": "20:00"
+  },
+  {
+    "clubLocation": "Puchong",
+    "clubName": "AF Bandar Kinrara",
+    "className": "Salsation",
+    "classType": "Dance",
+    "instructor": "Yaso",
+    "date": "6 July 2026 - 12 July 2026",
+    "dayOfWeek": "Wednesday",
+    "startTime": "19:00"
+  },
+  {
+    "clubLocation": "Puchong",
+    "clubName": "AF Bandar Kinrara",
+    "className": "Zumba",
+    "classType": "Dance",
+    "instructor": "Izz",
+    "date": "6 July 2026 - 12 July 2026",
+    "dayOfWeek": "Friday",
+    "startTime": "18:00"
   }
-
 ]
