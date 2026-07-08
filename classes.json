@@ -398,5 +398,615 @@
     "date": "1 July 2026 - 31 July 2026",
     "dayOfWeek": "Sunday",
     "startTime": "10:00"
+  },
+  {
+    "clubLocation": "Kota Damansara",
+    "clubName": "Anytime Fitness Emporis Kota Damansara",
+    "className": "Yoga",
+    "classType": "Yoga",
+    "instructor": "Ong",
+    "date": "7 July - 13 July",
+    "dayOfWeek": "Tuesday",
+    "startTime": "08:00"
+  },
+  {
+    "clubLocation": "Kota Damansara",
+    "clubName": "Anytime Fitness Emporis Kota Damansara",
+    "className": "ABS Attack",
+    "classType": "Core",
+    "instructor": "PT Sham",
+    "date": "7 July - 13 July",
+    "dayOfWeek": "Wednesday",
+    "startTime": "10:00"
+  },
+  {
+    "clubLocation": "Kota Damansara",
+    "clubName": "Anytime Fitness Emporis Kota Damansara",
+    "className": "Circuit Training",
+    "classType": "Functional",
+    "instructor": "PT Sham",
+    "date": "7 July - 13 July",
+    "dayOfWeek": "Thursday",
+    "startTime": "10:00"
+  },
+  {
+    "clubLocation": "Kota Damansara",
+    "clubName": "Anytime Fitness Emporis Kota Damansara",
+    "className": "Yoga",
+    "classType": "Yoga",
+    "instructor": "Lily",
+    "date": "7 July - 13 July",
+    "dayOfWeek": "Saturday",
+    "startTime": "10:00"
+  },
+  {
+    "clubLocation": "Kota Damansara",
+    "clubName": "Anytime Fitness Emporis Kota Damansara",
+    "className": "Kick Boxing",
+    "classType": "Martial Arts",
+    "instructor": "PT Naim",
+    "date": "7 July - 13 July",
+    "dayOfWeek": "Sunday",
+    "startTime": "12:00"
+  },
+  {
+    "clubLocation": "Kota Damansara",
+    "clubName": "Anytime Fitness Emporis Kota Damansara",
+    "className": "HIIT FIT",
+    "classType": "HIIT",
+    "instructor": "PT Irfan",
+    "date": "7 July - 13 July",
+    "dayOfWeek": "Friday",
+    "startTime": "17:30"
+  },
+  {
+    "clubLocation": "Kota Damansara",
+    "clubName": "Anytime Fitness Emporis Kota Damansara",
+    "className": "HRX",
+    "classType": "Functional",
+    "instructor": "PT Hazrul",
+    "date": "7 July - 13 July",
+    "dayOfWeek": "Saturday",
+    "startTime": "11:00"
+  },
+  {
+    "clubLocation": "Kota Damansara",
+    "clubName": "Anytime Fitness Emporis Kota Damansara",
+    "className": "Yoga",
+    "classType": "Yoga",
+    "instructor": "Carmen",
+    "date": "7 July - 13 July",
+    "dayOfWeek": "Monday",
+    "startTime": "18:00"
+  },
+  {
+    "clubLocation": "Kota Damansara",
+    "clubName": "Anytime Fitness Emporis Kota Damansara",
+    "className": "Body Toning",
+    "classType": "Strength",
+    "instructor": "PT Ami",
+    "date": "7 July - 13 July",
+    "dayOfWeek": "Tuesday",
+    "startTime": "17:00"
+  },
+  {
+    "clubLocation": "Kota Damansara",
+    "clubName": "Anytime Fitness Emporis Kota Damansara",
+    "className": "TRX Fit",
+    "classType": "Functional",
+    "instructor": "Siow Bin",
+    "date": "7 July - 13 July",
+    "dayOfWeek": "Wednesday",
+    "startTime": "18:00"
+  },
+  {
+    "clubLocation": "Kota Damansara",
+    "clubName": "Anytime Fitness Emporis Kota Damansara",
+    "className": "Pilates",
+    "classType": "Pilates",
+    "instructor": "Lynette Goh",
+    "date": "7 July - 13 July",
+    "dayOfWeek": "Thursday",
+    "startTime": "18:00"
+  },
+  {
+    "clubLocation": "Kota Damansara",
+    "clubName": "Anytime Fitness Emporis Kota Damansara",
+    "className": "Zumba",
+    "classType": "Dance",
+    "instructor": "Zin Baby",
+    "date": "7 July - 13 July",
+    "dayOfWeek": "Friday",
+    "startTime": "18:30"
+  },
+  {
+    "clubLocation": "Kota Damansara",
+    "clubName": "Anytime Fitness Emporis Kota Damansara",
+    "className": "Zumba",
+    "classType": "Dance",
+    "instructor": "Lynette Goh",
+    "date": "7 July - 13 July",
+    "dayOfWeek": "Monday",
+    "startTime": "19:00"
+  },
+  {
+    "clubLocation": "Kota Damansara",
+    "clubName": "Anytime Fitness Emporis Kota Damansara",
+    "className": "Strong Nation",
+    "classType": "HIIT",
+    "instructor": "Farrah",
+    "date": "7 July - 13 July",
+    "dayOfWeek": "Tuesday",
+    "startTime": "19:00"
+  },
+  {
+    "clubLocation": "Kota Damansara",
+    "clubName": "Anytime Fitness Emporis Kota Damansara",
+    "className": "Boxing",
+    "classType": "Martial Arts",
+    "instructor": "MK",
+    "date": "7 July - 13 July",
+    "dayOfWeek": "Wednesday",
+    "startTime": "19:00"
+  },
+  {
+    "clubLocation": "Kota Damansara",
+    "clubName": "Anytime Fitness Emporis Kota Damansara",
+    "className": "Spinning",
+    "classType": "Cycling",
+    "instructor": "Carmen Siow",
+    "date": "7 July - 13 July",
+    "dayOfWeek": "Thursday",
+    "startTime": "19:00"
+  },
+  {
+    "clubLocation": "Kota Damansara",
+    "clubName": "Anytime Fitness Emporis Kota Damansara",
+    "className": "Muay Thai",
+    "classType": "Martial Arts",
+    "instructor": "PT Hazrul",
+    "date": "7 July - 13 July",
+    "dayOfWeek": "Friday",
+    "startTime": "19:30"
+  },
+  {
+    "clubLocation": "Kota Damansara",
+    "clubName": "Anytime Fitness Emporis Kota Damansara",
+    "className": "Piloxing",
+    "classType": "Cardio",
+    "instructor": "Andien",
+    "date": "7 July - 13 July",
+    "dayOfWeek": "Monday",
+    "startTime": "20:00"
+  },
+  {
+    "clubLocation": "Kota Damansara",
+    "clubName": "Anytime Fitness Emporis Kota Damansara",
+    "className": "Aerostep",
+    "classType": "Cardio",
+    "instructor": "Amin",
+    "date": "7 July - 13 July",
+    "dayOfWeek": "Tuesday",
+    "startTime": "20:30"
+  },
+  {
+    "clubLocation": "Kota Damansara",
+    "clubName": "Anytime Fitness Emporis Kota Damansara",
+    "className": "Hatha Yoga",
+    "classType": "Yoga",
+    "instructor": "Mike",
+    "date": "7 July - 13 July",
+    "dayOfWeek": "Wednesday",
+    "startTime": "20:00"
+  },
+  {
+    "clubLocation": "Kota Damansara",
+    "clubName": "Anytime Fitness Emporis Kota Damansara",
+    "className": "Power Pump",
+    "classType": "Strength",
+    "instructor": "Norazman",
+    "date": "7 July - 13 July",
+    "dayOfWeek": "Thursday",
+    "startTime": "20:00"
+  },
+  {
+    "clubLocation": "Kota Damansara",
+    "clubName": "Anytime Fitness Emporis Kota Damansara",
+    "className": "Aerial Yoga",
+    "classType": "Yoga",
+    "instructor": "Ashley",
+    "date": "7 July - 13 July",
+    "dayOfWeek": "Friday",
+    "startTime": "20:30"
+  },
+  {
+    "clubLocation": "Denai Alam",
+    "clubName": "Anytime Fitness Denai Alam",
+    "className": "Aerial Yoga",
+    "classType": "Yoga",
+    "instructor": "Andrea",
+    "date": "July 2026",
+    "dayOfWeek": "Monday",
+    "startTime": "10:00"
+  },
+  {
+    "clubLocation": "Denai Alam",
+    "clubName": "Anytime Fitness Denai Alam",
+    "className": "Piloxing",
+    "classType": "Cardio",
+    "instructor": "Siti Sabariah",
+    "date": "July 2026",
+    "dayOfWeek": "Monday",
+    "startTime": "17:00"
+  },
+  {
+    "clubLocation": "Denai Alam",
+    "clubName": "Anytime Fitness Denai Alam",
+    "className": "Aerostep",
+    "classType": "Cardio",
+    "instructor": "Amin",
+    "date": "July 2026",
+    "dayOfWeek": "Monday",
+    "startTime": "18:00"
+  },
+  {
+    "clubLocation": "Denai Alam",
+    "clubName": "Anytime Fitness Denai Alam",
+    "className": "Pilates Flow",
+    "classType": "Pilates",
+    "instructor": "Siti Sabariah",
+    "date": "July 2026",
+    "dayOfWeek": "Monday",
+    "startTime": "20:00"
+  },
+  {
+    "clubLocation": "Denai Alam",
+    "clubName": "Anytime Fitness Denai Alam",
+    "className": "Circl Mobility",
+    "classType": "Mobility",
+    "instructor": "Theo",
+    "date": "July 2026",
+    "dayOfWeek": "Tuesday",
+    "startTime": "09:30"
+  },
+  {
+    "clubLocation": "Denai Alam",
+    "clubName": "Anytime Fitness Denai Alam",
+    "className": "Zumba",
+    "classType": "Dance",
+    "instructor": "Bella",
+    "date": "July 2026",
+    "dayOfWeek": "Tuesday",
+    "startTime": "10:30"
+  },
+  {
+    "clubLocation": "Denai Alam",
+    "clubName": "Anytime Fitness Denai Alam",
+    "className": "Recover",
+    "classType": "Recovery",
+    "instructor": "Baby G",
+    "date": "July 2026",
+    "dayOfWeek": "Tuesday",
+    "startTime": "17:00"
+  },
+  {
+    "clubLocation": "Denai Alam",
+    "clubName": "Anytime Fitness Denai Alam",
+    "className": "Tone & Shape",
+    "classType": "Strength",
+    "instructor": "Baby G",
+    "date": "July 2026",
+    "dayOfWeek": "Tuesday",
+    "startTime": "18:00"
+  },
+  {
+    "clubLocation": "Denai Alam",
+    "clubName": "Anytime Fitness Denai Alam",
+    "className": "Yoga",
+    "classType": "Yoga",
+    "instructor": "Jezz Ng",
+    "date": "July 2026",
+    "dayOfWeek": "Wednesday",
+    "startTime": "10:00"
+  },
+  {
+    "clubLocation": "Denai Alam",
+    "clubName": "Anytime Fitness Denai Alam",
+    "className": "Pump",
+    "classType": "Strength",
+    "instructor": "Theo",
+    "date": "July 2026",
+    "dayOfWeek": "Wednesday",
+    "startTime": "11:00"
+  },
+  {
+    "clubLocation": "Denai Alam",
+    "clubName": "Anytime Fitness Denai Alam",
+    "className": "Zumba Lift",
+    "classType": "Dance",
+    "instructor": "Anis",
+    "date": "July 2026",
+    "dayOfWeek": "Wednesday",
+    "startTime": "20:00"
+  },
+  {
+    "clubLocation": "Denai Alam",
+    "clubName": "Anytime Fitness Denai Alam",
+    "className": "Tone & Shape",
+    "classType": "Strength",
+    "instructor": "Baby G",
+    "date": "July 2026",
+    "dayOfWeek": "Thursday",
+    "startTime": "09:30"
+  },
+  {
+    "clubLocation": "Denai Alam",
+    "clubName": "Anytime Fitness Denai Alam",
+    "className": "Zumba",
+    "classType": "Dance",
+    "instructor": "Bella",
+    "date": "July 2026",
+    "dayOfWeek": "Thursday",
+    "startTime": "10:30"
+  },
+  {
+    "clubLocation": "Denai Alam",
+    "clubName": "Anytime Fitness Denai Alam",
+    "className": "Fit Burn",
+    "classType": "HIIT",
+    "instructor": "Sue Ann",
+    "date": "July 2026",
+    "dayOfWeek": "Thursday",
+    "startTime": "19:00"
+  },
+  {
+    "clubLocation": "Denai Alam",
+    "clubName": "Anytime Fitness Denai Alam",
+    "className": "Zumba",
+    "classType": "Dance",
+    "instructor": "iZ",
+    "date": "July 2026",
+    "dayOfWeek": "Thursday",
+    "startTime": "20:00"
+  },
+  {
+    "clubLocation": "Denai Alam",
+    "clubName": "Anytime Fitness Denai Alam",
+    "className": "Pilates Blast",
+    "classType": "Pilates",
+    "instructor": "Kally",
+    "date": "July 2026",
+    "dayOfWeek": "Friday",
+    "startTime": "09:30"
+  },
+  {
+    "clubLocation": "Denai Alam",
+    "clubName": "Anytime Fitness Denai Alam",
+    "className": "YogaFit",
+    "classType": "Yoga",
+    "instructor": "Kally",
+    "date": "July 2026",
+    "dayOfWeek": "Friday",
+    "startTime": "10:30"
+  },
+  {
+    "clubLocation": "Denai Alam",
+    "clubName": "Anytime Fitness Denai Alam",
+    "className": "Yoga",
+    "classType": "Yoga",
+    "instructor": "Lya",
+    "date": "July 2026",
+    "dayOfWeek": "Friday",
+    "startTime": "18:00"
+  },
+  {
+    "clubLocation": "Denai Alam",
+    "clubName": "Anytime Fitness Denai Alam",
+    "className": "Muay Thai",
+    "classType": "Martial Arts",
+    "instructor": "Fernandes",
+    "date": "July 2026",
+    "dayOfWeek": "Friday",
+    "startTime": "19:30"
+  },
+  {
+    "clubLocation": "Denai Alam",
+    "clubName": "Anytime Fitness Denai Alam",
+    "className": "Zumba",
+    "classType": "Dance",
+    "instructor": "Sal",
+    "date": "July 2026",
+    "dayOfWeek": "Friday",
+    "startTime": "20:30"
+  },
+  {
+    "clubLocation": "Denai Alam",
+    "clubName": "Anytime Fitness Denai Alam",
+    "className": "Inside Flow",
+    "classType": "Yoga",
+    "instructor": "Victoria",
+    "date": "July 2026",
+    "dayOfWeek": "Saturday",
+    "startTime": "07:45"
+  },
+  {
+    "clubLocation": "Denai Alam",
+    "clubName": "Anytime Fitness Denai Alam",
+    "className": "Pump",
+    "classType": "Strength",
+    "instructor": "Theo",
+    "date": "July 2026",
+    "dayOfWeek": "Saturday",
+    "startTime": "10:00"
+  },
+  {
+    "clubLocation": "Denai Alam",
+    "clubName": "Anytime Fitness Denai Alam",
+    "className": "Hatha Yoga",
+    "classType": "Yoga",
+    "instructor": "Lya",
+    "date": "July 2026",
+    "dayOfWeek": "Sunday",
+    "startTime": "09:00"
+  },
+  {
+    "clubLocation": "Bangsar",
+    "clubName": "Anytime Fitness UOA Bangsar",
+    "className": "RunFit",
+    "classType": "Cardio",
+    "instructor": "Anna",
+    "date": "July 2026",
+    "dayOfWeek": "Monday",
+    "startTime": "18:00"
+  },
+  {
+    "clubLocation": "Bangsar",
+    "clubName": "Anytime Fitness UOA Bangsar",
+    "className": "Yoga",
+    "classType": "Yoga",
+    "instructor": "Shen",
+    "date": "July 2026",
+    "dayOfWeek": "Monday",
+    "startTime": "19:00"
+  },
+  {
+    "clubLocation": "Bangsar",
+    "clubName": "Anytime Fitness UOA Bangsar",
+    "className": "Aerial Yoga",
+    "classType": "Yoga",
+    "instructor": "Shen",
+    "date": "July 2026",
+    "dayOfWeek": "Monday",
+    "startTime": "20:00"
+  },
+  {
+    "clubLocation": "Bangsar",
+    "clubName": "Anytime Fitness UOA Bangsar",
+    "className": "Zumba",
+    "classType": "Dance",
+    "instructor": "Fye",
+    "date": "July 2026",
+    "dayOfWeek": "Tuesday",
+    "startTime": "18:00"
+  },
+  {
+    "clubLocation": "Bangsar",
+    "clubName": "Anytime Fitness UOA Bangsar",
+    "className": "Muay Thai",
+    "classType": "Martial Arts",
+    "instructor": "Farhan",
+    "date": "July 2026",
+    "dayOfWeek": "Tuesday",
+    "startTime": "19:00"
+  },
+  {
+    "clubLocation": "Bangsar",
+    "clubName": "Anytime Fitness UOA Bangsar",
+    "className": "Aerial Pilates",
+    "classType": "Pilates",
+    "instructor": "Shen",
+    "date": "July 2026",
+    "dayOfWeek": "Tuesday",
+    "startTime": "20:00"
+  },
+  {
+    "clubLocation": "Bangsar",
+    "clubName": "Anytime Fitness UOA Bangsar",
+    "className": "Dance Choreo",
+    "classType": "Dance",
+    "instructor": "Anna",
+    "date": "July 2026",
+    "dayOfWeek": "Wednesday",
+    "startTime": "18:00"
+  },
+  {
+    "clubLocation": "Bangsar",
+    "clubName": "Anytime Fitness UOA Bangsar",
+    "className": "Strong Nation",
+    "classType": "HIIT",
+    "instructor": "Naufal",
+    "date": "July 2026",
+    "dayOfWeek": "Wednesday",
+    "startTime": "19:00"
+  },
+  {
+    "clubLocation": "Bangsar",
+    "clubName": "Anytime Fitness UOA Bangsar",
+    "className": "Go Bhangra",
+    "classType": "Dance",
+    "instructor": "Michelle",
+    "date": "July 2026",
+    "dayOfWeek": "Wednesday",
+    "startTime": "20:00"
+  },
+  {
+    "clubLocation": "Bangsar",
+    "clubName": "Anytime Fitness UOA Bangsar",
+    "className": "Capoeira",
+    "classType": "Martial Arts",
+    "instructor": "Fadz",
+    "date": "July 2026",
+    "dayOfWeek": "Thursday",
+    "startTime": "18:00"
+  },
+  {
+    "clubLocation": "Bangsar",
+    "clubName": "Anytime Fitness UOA Bangsar",
+    "className": "Boxing",
+    "classType": "Martial Arts",
+    "instructor": "Farhan",
+    "date": "July 2026",
+    "dayOfWeek": "Thursday",
+    "startTime": "19:00"
+  },
+  {
+    "clubLocation": "Bangsar",
+    "clubName": "Anytime Fitness UOA Bangsar",
+    "className": "Fit Mix",
+    "classType": "HIIT",
+    "instructor": "Hazrin",
+    "date": "July 2026",
+    "dayOfWeek": "Thursday",
+    "startTime": "20:00"
+  },
+  {
+    "clubLocation": "Bangsar",
+    "clubName": "Anytime Fitness UOA Bangsar",
+    "className": "Salsation",
+    "classType": "Dance",
+    "instructor": "Wawein",
+    "date": "July 2026",
+    "dayOfWeek": "Friday",
+    "startTime": "18:00"
+  },
+  {
+    "clubLocation": "Bangsar",
+    "clubName": "Anytime Fitness UOA Bangsar",
+    "className": "Spinning",
+    "classType": "Cycling",
+    "instructor": "Angela",
+    "date": "July 2026",
+    "dayOfWeek": "Friday",
+    "startTime": "19:00"
+  },
+  {
+    "clubLocation": "Bangsar",
+    "clubName": "Anytime Fitness UOA Bangsar",
+    "className": "Yoga",
+    "classType": "Yoga",
+    "instructor": "Mei Lin",
+    "date": "July 2026",
+    "dayOfWeek": "Friday",
+    "startTime": "20:00"
+  },
+  {
+    "clubLocation": "Bangsar",
+    "clubName": "Anytime Fitness UOA Bangsar",
+    "className": "Zumba",
+    "classType": "Dance",
+    "instructor": "Happy",
+    "date": "July 2026",
+    "dayOfWeek": "Saturday",
+    "startTime": "11:00"
   }
 ]
