@@ -126,12 +126,14 @@ function updateDependentFilters() {
   });
   clubNameSelect.value = clubNames.includes(currentClubName) ? currentClubName : '';
 
-  // Filter className options based on selected classType
+  // Filter className options based on selected classType and clubName
   const classNameSelect = document.getElementById('filter-className');
-  const filteredByType = classTypeVal
-    ? classesData.filter(d => d.classType === classTypeVal)
-    : classesData;
-  const classNames = getDistinctValues(filteredByType, 'className');
+  const resolvedClubName = clubNameSelect.value;
+  let filteredForClassName = classesData;
+  if (clubLocationVal) filteredForClassName = filteredForClassName.filter(d => d.clubLocation === clubLocationVal);
+  if (resolvedClubName) filteredForClassName = filteredForClassName.filter(d => d.clubName === resolvedClubName);
+  if (classTypeVal) filteredForClassName = filteredForClassName.filter(d => d.classType === classTypeVal);
+  const classNames = getDistinctValues(filteredForClassName, 'className');
   const currentClassName = classNameSelect.value;
   classNameSelect.innerHTML = '<option value="">All</option>';
   classNames.forEach(val => {
@@ -142,11 +144,11 @@ function updateDependentFilters() {
   });
   classNameSelect.value = classNames.includes(currentClassName) ? currentClassName : '';
 
-  // Filter instructor options based on selected className (and classType)
+  // Filter instructor options based on selected className (and classType, clubName)
   const instructorSelect = document.getElementById('filter-instructor');
   const filteredByClass = classNameSelect.value
-    ? filteredByType.filter(d => d.className === classNameSelect.value)
-    : filteredByType;
+    ? filteredForClassName.filter(d => d.className === classNameSelect.value)
+    : filteredForClassName;
   const instructors = getDistinctValues(filteredByClass, 'instructor');
   const currentInstructor = instructorSelect.value;
   instructorSelect.innerHTML = '<option value="">All</option>';
