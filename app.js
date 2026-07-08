@@ -107,8 +107,24 @@ function resetFilters() {
 }
 
 function updateDependentFilters() {
+  const clubLocationVal = document.getElementById('filter-clubLocation').value;
   const classTypeVal = document.getElementById('filter-classType').value;
-  const classNameVal = document.getElementById('filter-className').value;
+
+  // Filter clubName options based on selected clubLocation
+  const clubNameSelect = document.getElementById('filter-clubName');
+  const filteredByLocation = clubLocationVal
+    ? classesData.filter(d => d.clubLocation === clubLocationVal)
+    : classesData;
+  const clubNames = getDistinctValues(filteredByLocation, 'clubName');
+  const currentClubName = clubNameSelect.value;
+  clubNameSelect.innerHTML = '<option value="">All</option>';
+  clubNames.forEach(val => {
+    const opt = document.createElement('option');
+    opt.value = val;
+    opt.textContent = val;
+    clubNameSelect.appendChild(opt);
+  });
+  clubNameSelect.value = clubNames.includes(currentClubName) ? currentClubName : '';
 
   // Filter className options based on selected classType
   const classNameSelect = document.getElementById('filter-className');
